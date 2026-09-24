@@ -2,3 +2,4 @@ streamlit
 websocket-client
 plotly
 pandas
+numpy
